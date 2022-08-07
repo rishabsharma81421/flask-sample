@@ -5,4 +5,3 @@ git clone <github-repo>
 cd <folder-name>  
 sudo pip3 install flask  
 sudo python3 hello.py  
-Check
